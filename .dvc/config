@@ -1,0 +1,4 @@
+['remote "myremote"']
+url = s3://aifest2019
+[core]
+remote = myremote
